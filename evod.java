@@ -19,10 +19,10 @@ public class evod {
         {
             System.out.println("Even");
         }
-     if(n<0)
+    else if(n<0)
      {
       System.out.println("invalid");
-      
+    }
         
         else
         {
