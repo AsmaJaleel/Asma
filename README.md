@@ -26,7 +26,7 @@ public class Main {
         }
         else
         {
-            System.out.println(" neither Positive nor Negative ");
+            System.out.println(" Zero ");
         }
  
  
