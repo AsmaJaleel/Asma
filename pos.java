@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author MSAJCE
  */
-public class Pos {
+public class pos {
  
     /**
      * @param args the command line arguments
