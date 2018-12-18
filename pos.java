@@ -1,11 +1,11 @@
-package javaapplication1;
+
 import java.util.Scanner;
  
 /**
  *
  * @author MSAJCE
  */
-public class Main {
+public class Pos {
  
     /**
      * @param args the command line arguments
