@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author MSAJCE
  */
-public class evod {
+ class evod {
  
     /**
      * @param args the command line arguments
